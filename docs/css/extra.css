@@ -1,0 +1,85 @@
+/* Replacement for `body { background-attachment: fixed; }`, which has
+   performance issues when scrolling on large displays. See #1394. */
+body::before {
+    background: #00204A;
+}
+
+.container {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.navbar.fixed-top { /* csslint allow: adjoining-classes */
+    box-shadow: 0px 0px 6px 1px #D69E00, 0px 0px 0px 1px #D69E00;
+    border-width: 0 0 1px 0;
+    border-style: solid;
+    border-color: #7B0000;
+    color: #ADAAAD;
+    background-color: #000 !important;
+    background-image: none;
+}
+
+.navbar.fixed-top .nav-link {
+    color: rgb(21, 122, 181);
+}
+
+.bs-sidebar .nav > li > a.active, .bs-sidebar .nav > li > a.active:hover, .bs-sidebar .nav > li > a.active:focus, .bs-sidebar .nav > li > a:hover {
+    border-right: 0px solid;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    color: #a4d8f7;
+    text-shadow: 0px 0px 4px #0082be, 0px 0px 8px rgba(0,130,190,0.85), 0px 0px 12px rgba(0,130,190,0.65), 0px 0px 20px rgba(0,130,190,0.24), 0px 0px 20px rgba(0,130,190,0.24);
+}
+
+.navbar-nav .navitem.active .nav-link {
+    color: #a4d8f7;
+    text-shadow: 0px 0px 4px #0082be, 0px 0px 8px rgba(0,130,190,0.85), 0px 0px 12px rgba(0,130,190,0.65), 0px 0px 20px rgba(0,130,190,0.24), 0px 0px 20px rgba(0,130,190,0.24);
+}
+
+.bg-secondary {
+    box-shadow: 0px 0px 6px 1px #D69E00, 0px 0px 0px 1px #D69E00;
+    border: 1px solid #7B0000;
+    color: #ADAAAD;
+    background-color: #000 !important;
+}
+
+.nav-link:hover {
+    color: #a4d8f7;
+    text-shadow: 0px 0px 4px #0082be, 0px 0px 8px rgba(0,130,190,0.85), 0px 0px 12px rgba(0,130,190,0.65), 0px 0px 20px rgba(0,130,190,0.24), 0px 0px 20px rgba(0,130,190,0.24);
+}
+
+.bg-secondary .nav-link.active {
+    color: #a4d8f7;
+    text-shadow: 0px 0px 4px #0082be, 0px 0px 8px rgba(0,130,190,0.85), 0px 0px 12px rgba(0,130,190,0.65), 0px 0px 20px rgba(0,130,190,0.24), 0px 0px 20px rgba(0,130,190,0.24);
+}
+
+.col-md-9 {
+    box-shadow: 0px 0px 6px 1px #D69E00, 0px 0px 0px 1px #D69E00;
+    border: 1px solid #7B0000;
+    border-radius: 10px;
+    color: #ADAAAD;
+    background-color: #000 !important;
+}
+
+.col-md-9 img {
+    border-radius: 0;
+    margin: 0;
+    padding: 0;
+    border: 2px solid #00204A;
+}
+
+h1 {
+    padding-top: 10px;
+    color: #a4d8f7;
+    text-shadow: 0px 0px 4px #0082be, 0px 0px 8px rgba(0,130,190,0.85), 0px 0px 12px rgba(0,130,190,0.65), 0px 0px 20px rgba(0,130,190,0.24), 0px 0px 20px rgba(0,130,190,0.24);
+}
+
+h2 {
+    color: #EFBA00;
+}
+
+h3, h4, h5, h6 {
+    color: #b18b01;
+}
