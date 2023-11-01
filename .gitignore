@@ -1,0 +1,5 @@
+# Ignore the generated pages
+site/
+
+# Ignore vscode specific settings files
+.vscode/

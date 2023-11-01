@@ -1,15 +1,32 @@
-# hwm-guide-mkdocs-test
+# x-land.co.uk
 
-See <https://www.mkdocs.org/getting-started/> for details on how to get started
-with mkdics, including how to build the docs and how to deploy.
+This site is build using mkdocs and mkdocs-material
 
-In order to simply view what this will look like, you can do the following
-in Linux without having to build the docs:
+## Installation
 
-1. Install mkdocs with `pip install mkdocs`.
-2. Clone this repo locally.
-3. Open a terminal and `cd` into the cloned repo.
-4. Run `mkdocs serve` in the same folder as the `mkdocs.yml` file.
-5. Use a web browser to view <http://127.0.0.1:8000/>
+```shell
+pip install mkdocs-material mdx_truly_sane_lists mkdocs-git-revision-date-localized-plugin pymdown-extensions
+```
 
-This will autoload the pages as it detects changes to the files.
+For full documentation visit [mkdocs-material].
+
+  [mkdocs-material]: (https://squidfunk.github.io/mkdocs-material/getting-started/)
+
+### Commands
+
+* `mkdocs new [dir-name]` - Create a new project.
+* `mkdocs serve` - Start the live-reloading docs server
+* `mkdocs build` - Build the documentation site.
+* `mkdocs -h` - Print help message and exit.
+
+### Project layout
+
+```shell
+mkdocs.yml         # The configuration file.
+docs/
+    css/
+        extra.css  # Additional CSS to apply
+    img/           # Images
+    index.md       # The documentation homepage.
+    ...            # Other markdown pages, images and other files.
+```

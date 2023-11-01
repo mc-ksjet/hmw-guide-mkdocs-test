@@ -1,21 +1,136 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+# Project information
 site_name: Homeworld Mobile Unofficial Guide
-site_url: https://example.com/
-site_description: Homeworld Mobile Unofficial User Guide
-#repo_url: https://github.com/supergnaw/homeworld-mobile-guide
-nav:
-#  - Intro: index.md
-  - Officers: officers.md
-  - Modules: modules.md
-  - Systems: systems.md
-#  - About: about.md
+site_url: http://somesite.com
+site_description: >-
+  Homeworld Mobile Unofficial User Guide: Test Version
+copyright: '&copy; Someone'
+
+# Repository
+repo_url: https://github.com/mc-ksjet/hwm-guide-mkdocs-test
+repo_name: mc-ksjet/hwm-guide-mkdocs-test
+edit_uri: edit/main/docs/
+
+# Configuration
 theme:
-  name: mkdocs
-  include_sidebar: false
-#  custom_dir: custom_theme/
+  name: material
+  favicon: img/favicon.png
+  icon:
+    edit: material/pencil
+    repo: fontawesome/brands/github
+    view: material/eye
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - content.action.edit
+    - content.action.view
+    - content.code.copy
+    - content.code.select
+    #- navigation.footer
+    - navigation.indexes
+    #- navigation.sections
+    - navigation.tabs
+    #- navigation.tabs.sticky
+    - navigation.top
+    #- navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.integrate
+
+# Any extra CSS
 extra_css:
   - css/extra.css
+
+#extra_javascript:
+  #- https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  #- javascript/tablesort.js
+
+# Extend markdown
 markdown_extensions:
-#  - smarty
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - markdown_include.include
+  - md_in_html
+  - mdx_truly_sane_lists:
+      truly_sane: true
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+      linenums_style: table
+      line_spans: __span
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      auto_append:
+        - include/abbreviations.md
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - tables
   - toc:
-      permalink: True
-#  - sane_lists
+      permalink: true
+      #toc_depth: 0
+
+# Plugins
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: false
+      type: datetime
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+      pipeline:
+        - trimmer
+  #- tags:
+      #tags_compare: !!python/name:material.plugins.tags.casefold
+      #tags_file: index/tags.md
+
+# Page tree
+nav:
+  - Home: index.md
+  - Factions:
+      - factions/hiigaran.md
+  - Officers:
+      - officers/index.md
+      - Stats: officers/officer-stats.md
+      - officers/active-abilities.md
+      - Perks:
+          - officers/perks/index.md
+          - officers/perks/comms-officer-perks.md
+          - officers/perks/engineer-perks.md
+          - officers/perks/gunner-perks.md
+          - officers/perks/medic-perks.md
+          - officers/perks/miner-perks.md
+          - officers/perks/operator-perks.md
+          - officers/perks/pilot-perks.md
+          - officers/perks/quartermaster-perks.md
+          - officers/perks/scientist-perks.md
+      - officers/officer-list.md
+  - Modules: modules.md
+  - Systems: systems.md
