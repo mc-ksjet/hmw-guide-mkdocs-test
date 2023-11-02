@@ -17,12 +17,16 @@ Torpedo weapons currently only come in Large.
 
 ## Blueprints
 
-|Weapon Module         |Size |Location Found|
-|----------------------|-----|--------------|
-|Type 8 Torpedo Bracket|Large|Market        |
+|Weapon                |Size |Location Found|
+|----------------------|:---:|--------------|
+|Type 8 Torpedo Bracket| L   |Market        |
 
-## Requirements
+## Build Requirements
 
-|Module name           |Material 1    |Material 2                |Material 3                   |
+|Weapon                |Material 1    |Material 2                |Material 3                   |
 |----------------------|--------------|--------------------------|-----------------------------|
 |Type 8 Torpedo Bracket|800 RU A III  |560 Large Weapon Parts III|160 Large Machinery Parts III|
+
+## Modules
+
+See [Torpedo Weapon Modules](../modules/internal/weapon-modules/torpedo-modules.md).

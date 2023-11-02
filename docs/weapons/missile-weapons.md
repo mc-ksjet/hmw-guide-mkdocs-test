@@ -24,7 +24,7 @@ They can be buffed by upgrading them, fitting in a high aerospace stat officer (
 
 ## Blueprints
 
-|Weapon Module                         |Size  |Location Found                            |Cost                            |
+|Weapon                                |Size  |Location Found                            |Cost                            |
 |--------------------------------------|:----:|------------------------------------------|--------------------------------|
 |Type-5 Launch Pad 0                   | S    |Fixed on the Expedition flagship          |-                               |
 |Type-5 Launch Pad I                   | S    |Chapter 12 - Mounting Turrets             |-                               |
@@ -49,7 +49,7 @@ They can be buffed by upgrading them, fitting in a high aerospace stat officer (
 
 ## Build Requirements
 
-|Module name                           |Material 1                    |Material 2                |Material 3                   |
+|Weapon                                |Material 1                    |Material 2                |Material 3                   |
 |--------------------------------------|------------------------------|--------------------------|-----------------------------|
 |Colchis Launch Cluster I              |700 RU M 0                    |1225 RU B I               |350 RU C I                   |
 |Colchis Launch Cluster II             |350 RU A II                   |588 Large Weapon Parts II |700 RU C II                  |
@@ -70,3 +70,7 @@ They can be buffed by upgrading them, fitting in a high aerospace stat officer (
 |Type-5 Launch Pad II (uncommon)       |210 RU D II                   |945 Small Weapon Parts II |562 RU C II                  |
 |Type-5 Launch Pad III                 |360 RU A III                  |504 Small Weapon Parts III|144 Small Machinery Parts III|
 |Type-5 Launch Pad III (uncommon)      |90 Small Electronics parts III|630 Small Weapon Parts III|180 Small Machinery Parts III|
+
+## Modules
+
+See [Missile Weapon Modules](../modules/internal/weapon-modules/missile-modules.md).

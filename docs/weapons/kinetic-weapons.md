@@ -79,3 +79,7 @@ They can be buffed by upgrading them, fitting in a high physical stat officer (b
 |Twin Javelin Cannon II (rare)   |450 RU D II                    |1008 Large Weapon Parts II |1200 RU C II                  |
 |Twin Javelin Cannon III         |640 RU A III                   |448 Large Weapon Parts III |128 Large Machinery Parts III |
 |Twin Javelin Cannon III (rare)  |96  Large Electronics III      |672 Large Weapon Parts III |192 Large Machinery Parts III |
+
+## Modules
+
+See [Kinetic Weapon Modules](../modules/internal/weapon-modules/kinetic-modules.md).

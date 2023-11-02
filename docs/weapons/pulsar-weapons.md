@@ -18,7 +18,7 @@ Yaot pulsars have more damage and range, but a lower fire rate compared to the n
 
 ## Blueprints
 
-|Weapon Module                   |Size  |Location Found                          |Cost                         |
+|Weapon                          |Size  |Location Found                          |Cost                         |
 |--------------------------------|:----:|----------------------------------------|-----------------------------|
 |LT-4 MAG Pointer III            | S    |Research found Yaot liaison requisitions|30 T3 Research code fragments|
 |Yaot SSL Pointer III (uncommon) | S    |Yaot liaison requisitions (rep 6)       |                             |
@@ -28,10 +28,14 @@ Yaot pulsars have more damage and range, but a lower fire rate compared to the n
 
 ## Build Requirements
 
-|Module name                     |Material 1   |Material 2                |Material 3                   |
+|Weapon                          |Material 1   |Material 2                |Material 3                   |
 |--------------------------------|-------------|--------------------------|-----------------------------|
 |LT-4 MAG Pointer III            |600 RU A III |840 Small Weapon Parts III|240 Small Machinery Parts III|
 |Yaot SSL Pointer III (uncommon) |157 RU D III |154 Large Weapon Parts III|44 Large Machinery Parts III |
 |DR-3 MAG Repeater III           |800 RU A III |560 Large Weapon Parts III|160 Large Machinery Parts III|
 |Yaot SSV Repeater III (uncommon)|857 RU D III |840 Large Weapon Parts III|240 Large Machinery Parts III|
 |Twin DR-M MAG Lance III         |1280 RU A III|896 Large Weapon Parts III|256 Large Machinery Parts III|
+
+## Modules
+
+See [Pulsar Weapon Modules](../modules/internal/weapon-modules/pulsar-modules.md).

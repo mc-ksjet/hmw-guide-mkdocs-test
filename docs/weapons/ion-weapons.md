@@ -16,9 +16,9 @@ Ions weapons currently do not come in in sizes saller than medium.
 * 70% damage & hit chance at 100% range
 * Best Damage/Hit chance ratio (99% hit chance + 90% damage) at 80% range
 
-## Build Blueprints
+## Blueprints
 
-|Weapon Module                    |Size |Location Found                          |Cost                            |
+|Weapon                           |Size |Location Found                          |Cost                            |
 |---------------------------------|:---:|----------------------------------------|--------------------------------|
 |Azure-1 Array II                 | M   |Market                                  |60  T2 External module fragments|
 |Azure-1 Array III                | M   |Yaot liaison requisitions               |100 T3 External module fragments|
@@ -35,7 +35,7 @@ Ions weapons currently do not come in in sizes saller than medium.
 
 ## Build requirements
 
-|Module name                      |Material 1               |Material 2                 |Material 3                   |
+|Weapon                           |Material 1               |Material 2                 |Material 3                   |
 |---------------------------------|-------------------------|---------------------------|-----------------------------|
 |Azure-1 Array II                 |500 RU A II              |840 Large Weapon Parts II  |1000 RU C II                 |
 |Azure-1 Array III                |800 RU A III             |560 Large Weapon Parts III |160 Large Machinery Parts III|
@@ -48,3 +48,7 @@ Ions weapons currently do not come in in sizes saller than medium.
 |Fleet Model X2 Battery III (epic)|210 Large Electronics III|1470 Large Weapon Parts III|420 Large Machinery Parts III|
 |Twin Azure-1 Array III (epic)    |140 Large Electronics III|980 Large Weapon Parts III |280 Large Machinery Parts III|
 |Vission-11 Battery               |1200 RU A III            |840 Large Weapon Parts III |240 Large Machinery Parts III|
+
+## Modules
+
+See [Ion Weapon Modules](../modules/internal/weapon-modules/ion-modules.md).
