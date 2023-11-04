@@ -1,9 +1,9 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 # Project information
-site_name: Homeworld Mobile Unofficial Guide
+site_name: Unofficial Homeworld Mobile Unofficial Guide
 site_url: http://somesite.com
 site_description: >-
-  Homeworld Mobile Unofficial User Guide: Test Version
+  Unofficial Homeworld Mobile Unofficial User Guide: Test Version
 copyright: '&copy; Someone'
 
 # Repository
@@ -14,7 +14,8 @@ edit_uri: edit/main/docs/
 # Configuration
 theme:
   name: material
-  favicon: img/favicon.png
+  favicon: img/favicon.ico
+  logo: img/favicon.ico
   icon:
     edit: material/pencil
     repo: fontawesome/brands/github
@@ -57,8 +58,8 @@ extra_css:
   - css/extra.css
 
 #extra_javascript:
-  #- https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
-  #- javascript/tablesort.js
+#  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+#  - javascript/tablesort.js
 
 # Extend markdown
 markdown_extensions:
@@ -116,6 +117,49 @@ nav:
   - Home: index.md
   - Factions:
       - factions/hiigaran.md
+      - factions/amassari.md
+      - factions/cangacian.md
+      - factions/iyatequa.md
+      - factions/kiithless-hiigaran.md
+      - factions/progenitor.md
+      - factions/tanoch.md
+      - factions/yaot.md
+  - Systems:
+      - systems/index.md
+      - systems/t0.md
+      - systems/t1.md
+      - systems/t2.md
+      - systems/t3.md
+      - systems/t4.md
+  - Weapons:
+      - weapons/index.md
+      - weapons/energy-weapons.md
+      - weapons/ion-weapons.md
+      - weapons/kinetic-weapons.md
+      - weapons/missile-weapons.md
+      - weapons/pulsar-weapons.md
+      - weapons/torpedo-weapons.md
+  - Modules:
+      #- modules/index.md
+      - External:
+          - modules/external/index.md
+          - modules/external/repair-turrets.md
+          - modules/external/sensor-arrays.md
+          - modules/external/weapon-turrets.md
+      - Internal:
+          - modules/internal/index.md
+          - modules/internal/engine-modules.md
+          - modules/internal/hull-armour-modules.md
+          - modules/internal/industry-modules.md
+          - modules/internal/research-modules.md
+          - modules/internal/sensor-modules.md
+          - modules/internal/storage-modules.md
+          - Weapon Modules:
+              - modules/internal/weapon-modules/ion-modules.md
+              - modules/internal/weapon-modules/kinetic-modules.md
+              - modules/internal/weapon-modules/missile-modules.md
+              - modules/internal/weapon-modules/pulsar-modules.md
+              - modules/internal/weapon-modules/torpedo-modules.md
   - Officers:
       - officers/index.md
       - Stats: officers/officer-stats.md
@@ -132,5 +176,4 @@ nav:
           - officers/perks/quartermaster-perks.md
           - officers/perks/scientist-perks.md
       - officers/officer-list.md
-  - Modules: modules.md
-  - Systems: systems.md
+  - Contributors: contributors.md

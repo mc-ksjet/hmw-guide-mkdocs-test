@@ -1,11 +1,11 @@
-# x-land.co.uk
+# Unofficial Homeworld Mobile Unofficial Guide
 
 This site is build using mkdocs and mkdocs-material
 
 ## Installation
 
 ```shell
-pip install mkdocs-material mdx_truly_sane_lists mkdocs-git-revision-date-localized-plugin pymdown-extensions
+pip install mkdocs-material mdx_truly_sane_lists mkdocs-git-revision-date-localized-plugin --update
 ```
 
 For full documentation visit [mkdocs-material].
