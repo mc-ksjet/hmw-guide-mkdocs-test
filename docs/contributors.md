@@ -1,13 +1,8 @@
-# Contributors & Links
+# Contributors
 
-As a little ending / credits, I want to thank the various community members for helping with collecting data, providing feedback and advertising the document / website.
-
-## Discords / Communities
-
-* [Official Homeworld Mobile discord](https://discord.gg/homeworldmobile)
-* [Offcial Homeworld universe discord](https://discord.gg/homeworld)
-* [German Homeworld Alliance (German speaking discord)](https://discord.gg/vbQmtJGynS)
-* [Homeworld Mobile Polska (Polish speaking discord)](https://discord.gg/MSHjEUfrpp)
+As a little ending / credits, I want to thank the various community members for
+helping with collecting data, providing feedback and advertising the document/
+website.
 
 ## Ongoing Projects and Additional Info
 
@@ -27,31 +22,6 @@ As a little ending / credits, I want to thank the various community members for 
 * Thanks to Dustybin / Idatae#0027 for the [scannable missions document](https://shorturl.at/elsJU)
 * Thanks to Dustybin / Idatae#0027 for the [officer stats document](https://shorturl.at/boHQ7)
 * Thanks to Enjoii#1872 for the [fabrication calculator](https://shorturl.at/qCFY0)
-
-## Homeworld Mobile Related Social Media
-
-* [Official website](https://www.homeworldmobile.com/)
-* [Twitter](https://twitter.com/homeworldmobile)
-* [Facebook](https://www.facebook.com/HomeworldMobile)
-* [Instagram](https://www.instagram.com/homeworldmobile/)
-
-## Homeworld 3
-
-* [Homeworld 3 site](https://www.homeworlduniverse.com/)
-* [Fig page](https://www.fig.co/campaigns/homeworld3)
-* [Steam page](https://store.steampowered.com/app/1840080/Homeworld_3/)
-* [Homeworld twitter](https://twitter.com/HomeworldGame)
-* [Facebook](https://www.facebook.com/HomeworldGame)
-* [Instagram](https://www.instagram.com/homeworldgame/)
-* [Youtube](https://www.youtube.com/playlist?list=PLrIrx8C5BtV0jecOIPhMGv_1-5dXdm5GL)
-
-## Older Homeworld Titles
-
-* [Homeworld remasterd](https://www.homeworldremastered.com/)
-* [Remasterd steam page](https://store.steampowered.com/app/244160/Homeworld_Remastered_Collection/)
-* [Homeworld Deserts of Kharak](https://desertsofkharak.com/)
-* [Deserts of Kharak steam page](https://store.steampowered.com/app/281610/Homeworld_Deserts_of_Kharak/)
-* [Homeworld Cataclysm / Emergence GoG](https://www.gog.com/en/game/homeworld_emergence)
 
 ## This Site
 
