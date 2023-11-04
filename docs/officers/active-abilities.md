@@ -1,6 +1,10 @@
 # Active Abilities
 
-Operator officers also can have active abilities. If an officer has a symbol underneath the stats, it indicates an active ability. For this to be used, a player needs to place the officer on the bridge and have the right turret equipped on their flagship. The use of these in battle then costs energy to activate. Active abilities do not stack.
+Operator officers also can have active abilities. If an officer has a symbol
+underneath the stats, it indicates an active ability. For this to be used, a
+player needs to place the officer on the bridge and have the right turret
+equipped on their flagship. The use of these in battle then costs energy to
+activate. Active abilities do not stack.
 
 ***Cooldowns on active abilities currently do not appear to work***
 
@@ -27,7 +31,8 @@ Ability cooldown progression: -0.26s (2%) every tenth level, as follows:
 
 ![Fusion Missile](/img/officers/fusion-missile.png)
 
-Launches a single missile with a heavier than normal payload. Effective agains capital ships. Requires at lease one missile turret.
+Launches a single missile with a heavier than normal payload. Effective agains
+capital ships. Requires at lease one missile turret.
 
 Requires at least one **missile** turret to be equipped.  
 Energy use: 26  
@@ -65,7 +70,8 @@ Ability cooldown progression: -0.4s (2%) seconds every tenth level, as follows:
 
 ![Ion Cannon Shot](/img/officers/ion-cannon-shot.png)
 
-Triggers a focused ion cannon shot that cripples the targets weapon systems, slowing down rate of fire for a few seconds.
+Triggers a focused ion cannon shot that cripples the targets weapon systems,
+slowing down rate of fire for a few seconds.
 
 Requires at least one **ion** turret to be equipped.  
 Energy use: 18  
@@ -84,7 +90,8 @@ Ability cooldown progression: -0.26s (2%) every tenth level, as follows:
 
 ![Kinetic Burst](/img/officers/pulsat-burst.png)
 
-Overclocks the ship's kinetic turrets, increasing firerate. Requires at least one equipped kinetic / mass driver turret.
+Overclocks the ship's kinetic turrets, increasing firerate. Requires at least
+one equipped kinetic / mass driver turret.
 
 Requires at least one **pulsar** turret to be equipped.  
 Energy use: 17  
@@ -124,7 +131,8 @@ Ability cooldown progression: -0.26s (2%) every tenth level, as follows:
 
 ![Pulsar Burst](/img/officers/pulsat-burst.png)
 
-Overclocks the ship's pulsar turrets, increasing firerate. Requires at least one equipped pulsar turret.
+Overclocks the ship's pulsar turrets, increasing firerate. Requires at least one
+equipped pulsar turret.
 
 Requires at least one **pulsar** turret to be equipped.  
 Energy use: 16  

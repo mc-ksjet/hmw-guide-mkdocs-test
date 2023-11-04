@@ -1,6 +1,11 @@
 # Officer list
 
-All officers obtained in the game, except for the named market legendary officers and the named event officers are now randomly generated, with random names, random pictures, random stats, and the ability to randonly gain (split) to a different perk every 10 levels. Due to this, it is no longer possible to maintain fixed officer lists for any officers other than event and market officers.
+All officers obtained in the game, except for the named market legendary
+officers and the named event officers are now randomly generated, with random
+names, random pictures, random stats, and the ability to randonly gain (split)
+to a different perk every 10 levels. Due to this, it is no longer possible to
+maintain fixed officer lists for any officers other than event and market
+officers.
 
 ## Named Event Officers
 
@@ -8,7 +13,8 @@ All officers obtained in the game, except for the named market legendary officer
 
 ![Ada Hraal](/img/officers/ada-hraal.png)
 
-> Former lead scientist of the second expedition to Nimbus. Veteran research specialist.
+> Former lead scientist of the second expedition to Nimbus. Veteran research
+  specialist.
 
 Rarity: **Rare**  
 Perk: [Bridge: Research Time](perks/scientist-officer-perks.md#bridge-research-time)
@@ -19,18 +25,23 @@ Ada Hraal was available as part of the "Tanoch Winter Celebrations" event.
 
 ![Elise Liirha](/img/officers/elise-liirhra.png)
 
-> Elise started out as a beam weapon technician in the Hiigaran fleet, but climbed the ranks quickly after implementing Yaot technology into Hiigaran weapons. Today she is known as a friend to the Yaot - and an expert in pulsar weaponry.
+> Elise started out as a beam weapon technician in the Hiigaran fleet, but
+  climbed the ranks quickly after implementing Yaot technology into Hiigaran
+  weapons. Today she is known as a friend to the Yaot - and an expert in pulsar
+  weaponry.
 
 Rarity: **Epic**  
 Perk: [Pulsar Burst](active-abilities.md#pulsar-burst)
 
-Elise Liirhra was available as part of the "Yaot Stories: Astral Conjunctions" event.
+Elise Liirhra was available as part of the "Yaot Stories: Astral Conjunctions"
+event.
 
 ### Hector Soban
 
 ![Hector Soban](/img/officers/hector-soban.png)
 
-> A rising star within the Hiigaran fleet, Hector Soban is leading the cause to require fleet gunners to cross train on exotic and foreign weapons systems.
+> A rising star within the Hiigaran fleet, Hector Soban is leading the cause to
+  require fleet gunners to cross train on exotic and foreign weapons systems.
 
 Rarity: **Legendary**
 
@@ -39,7 +50,8 @@ Rarity: **Legendary**
 |Sensor: Flagship Targetting Range   |+24%   |+27%    |+30%    |+30%    |+33%    |
 |Escort Ship: Escort Targetting Range|+24%   |+24%    |+24%    |+27%    |+27%    |
 
-Hector Soban was available as part of the "Amassari Stories: Rise of the Kiithless" event.
+Hector Soban was available as part of the "Amassari Stories: Rise of the
+Kiithless" event.
 
 ## Named Market Officers
 
@@ -60,7 +72,8 @@ Rarity: **Legendary**
 
 ![Amaala Magaan](/img/officers/amaala-magann.png)
 
-> A capable strike officer and leader. Veteran of several conflicts, banished to Nimbus to draw her sister Esentra into exile.
+> A capable strike officer and leader. Veteran of several conflicts, banished to
+  Nimbus to draw her sister Esentra into exile.
 
 Rarity: **Legendary**
 
@@ -75,7 +88,8 @@ Sister of [Esentra Magaan](#esentra-magaan).
 
 ![Esentra Magann](/img/officers/esentra-magann.png)
 
-> A formidable commander and a significant figure in Kiith politics. Searches Nimbus for her sister, Amaala.
+> A formidable commander and a significant figure in Kiith politics. Searches
+  Nimbus for her sister, Amaala.
 
 Rarity: **Legendary**
 
@@ -90,7 +104,8 @@ Sister of [Amaala Magaan](#amaala-magann).
 
 ![Jassiah Soban](/img/officers/jassiah-soban.png)
 
-> Between the two Shades, she is the more administrative and diplomatic. She finds the targets and is a relentless tracker.
+> Between the two Shades, she is the more administrative and diplomatic. She
+  finds the targets and is a relentless tracker.
 
 Rarity: **Legendary**
 
@@ -105,7 +120,9 @@ Sister of [Thaed Soban](#thaed-soban).
 
 ![Makhaab Somtaaw](/img/officers/makhaab-somtaaw.png)
 
-> An expert on captured Vaygr technology. Makhaab's improvisation skills are a thing of legend. His biggest boast is claiming to send interstallar signals with a plasma bomb launcher and a coat rack.
+> An expert on captured Vaygr technology. Makhaab's improvisation skills are a
+  thing of legend. His biggest boast is claiming to send interstallar signals
+  with a plasma bomb launcher and a coat rack.
 
 Rarity: **Legendary**
 
@@ -118,7 +135,8 @@ Rarity: **Legendary**
 
 ![Mehemit Matarra](/img/officers/mehemit-matara.png)
 
-> Stately authoritarian commander with little patience for fools. Low opinion of other Kiithid.
+> Stately authoritarian commander with little patience for fools. Low opinion of
+  other Kiithid.
 
 Rarity: **Legendary**
 
@@ -133,7 +151,8 @@ Brother of [Pagraan Matara](#pagraan-matara).
 
 ![Pagraan Matara](/img/officers/pagraan-matara.png)
 
-> Brave and headstrong hero of the front lines. Noted contempt for aloof flag officers.
+> Brave and headstrong hero of the front lines. Noted contempt for aloof flag
+  officers.
 
 Rarity: **Legendary**
 
@@ -142,7 +161,8 @@ Rarity: **Legendary**
 |Resource Conroller: Remote Mining Yield|+6%    |+6%     |+7%     |+7%     |+7%     |
 |Refinery: Rare Earth Chance            |+6     |+7      |+7      |+8      |+9      |
 
-Note that the "Refinery: Rare Earth Chance" perk add the given amount to the expected RE amount rather than a percentage.
+Note that the "Refinery: Rare Earth Chance" perk add the given amount to the
+expected RE amount rather than a percentage.
 
 Brother of [Mehemit Matara](#mehemit-matarra).
 
@@ -150,7 +170,8 @@ Brother of [Mehemit Matara](#mehemit-matarra).
 
 ![Thaed Soban](/img/officers/thaed-soban.png)
 
-> Between the Shades, Thaed has no sense of mercy. He will allow his target to run his mouth but never changes his judgement - death.
+> Between the Shades, Thaed has no sense of mercy. He will allow his target to
+  run his mouth but never changes his judgement - death.
 
 Rarity: **Legendary**
 
