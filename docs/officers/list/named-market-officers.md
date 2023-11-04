@@ -1,61 +1,6 @@
-# Officer list
+# Named Market Officers
 
-All officers obtained in the game, except for the named market legendary
-officers and the named event officers are now randomly generated, with random
-names, random pictures, random stats, and the ability to randonly gain (split)
-to a different perk every 10 levels. Due to this, it is no longer possible to
-maintain fixed officer lists for any officers other than event and market
-officers.
-
-## Named Event Officers
-
-### Ada Hraal
-
-![Ada Hraal](/img/officers/ada-hraal.png)
-
-> Former lead scientist of the second expedition to Nimbus. Veteran research
-  specialist.
-
-Rarity: **Rare**  
-Perk: [Bridge: Research Time](perks/scientist-officer-perks.md#bridge-research-time)
-
-Ada Hraal was available as part of the "Tanoch Winter Celebrations" event.
-
-### Elise Liirhra
-
-![Elise Liirha](/img/officers/elise-liirhra.png)
-
-> Elise started out as a beam weapon technician in the Hiigaran fleet, but
-  climbed the ranks quickly after implementing Yaot technology into Hiigaran
-  weapons. Today she is known as a friend to the Yaot - and an expert in pulsar
-  weaponry.
-
-Rarity: **Epic**  
-Perk: [Pulsar Burst](active-abilities.md#pulsar-burst)
-
-Elise Liirhra was available as part of the "Yaot Stories: Astral Conjunctions"
-event.
-
-### Hector Soban
-
-![Hector Soban](/img/officers/hector-soban.png)
-
-> A rising star within the Hiigaran fleet, Hector Soban is leading the cause to
-  require fleet gunners to cross train on exotic and foreign weapons systems.
-
-Rarity: **Legendary**
-
-|Perks                               |Level 1|Level 10|Level 20|Level 30|Level 40|
-|------------------------------------|-------|--------|--------|--------|--------|
-|Sensor: Flagship Targetting Range   |+24%   |+27%    |+30%    |+30%    |+33%    |
-|Escort Ship: Escort Targetting Range|+24%   |+24%    |+24%    |+27%    |+27%    |
-
-Hector Soban was available as part of the "Amassari Stories: Rise of the
-Kiithless" event.
-
-## Named Market Officers
-
-### Agnes Manaan
+## Agnes Manaan
 
 ![Agnes Manaan](/img/officers/agnes-manaan.png)
 
@@ -68,7 +13,7 @@ Rarity: **Legendary**
 |Fabricator: Fabrication Time|-12%   |-12%    |-12%    |-13%    |-13%    |
 |Fabricator: Fabrication Cost|-12%   |-13%    |-14%    |-14%    |-15%    |
 
-### Amaala Magann
+## Amaala Magann
 
 ![Amaala Magaan](/img/officers/amaala-magann.png)
 
@@ -84,7 +29,7 @@ Rarity: **Legendary**
 
 Sister of [Esentra Magaan](#esentra-magaan).
 
-### Esentra Magaan
+## Esentra Magaan
 
 ![Esentra Magann](/img/officers/esentra-magann.png)
 
@@ -100,7 +45,7 @@ Rarity: **Legendary**
 
 Sister of [Amaala Magaan](#amaala-magann).
 
-### Jassiah Soban
+## Jassiah Soban
 
 ![Jassiah Soban](/img/officers/jassiah-soban.png)
 
@@ -116,7 +61,7 @@ Rarity: **Legendary**
 
 Sister of [Thaed Soban](#thaed-soban).
 
-### Makhaab Somtaaw
+## Makhaab Somtaaw
 
 ![Makhaab Somtaaw](/img/officers/makhaab-somtaaw.png)
 
@@ -131,7 +76,7 @@ Rarity: **Legendary**
 |Escort Ship: Escort Hull         |+12%   |+12%    |+14%    |+16%    |+18%    |
 |Strike Craft Squadron: Squad Hull|+24%   |+28%    |+28%    |+28%    |+28%    |
 
-### Mehemit Matarra
+## Mehemit Matarra
 
 ![Mehemit Matarra](/img/officers/mehemit-matara.png)
 
@@ -147,7 +92,7 @@ Rarity: **Legendary**
 
 Brother of [Pagraan Matara](#pagraan-matara).
 
-### Pagraan Matara
+## Pagraan Matara
 
 ![Pagraan Matara](/img/officers/pagraan-matara.png)
 
@@ -166,7 +111,7 @@ expected RE amount rather than a percentage.
 
 Brother of [Mehemit Matara](#mehemit-matarra).
 
-### Thaed Soban
+## Thaed Soban
 
 ![Thaed Soban](/img/officers/thaed-soban.png)
 
