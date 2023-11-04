@@ -176,4 +176,7 @@ nav:
           - officers/perks/quartermaster-perks.md
           - officers/perks/scientist-perks.md
       - officers/officer-list.md
-  - Contributors: contributors.md
+  - About:
+      - contributors.md
+      - links.md
+      - version.md
