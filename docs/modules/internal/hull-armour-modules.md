@@ -25,4 +25,4 @@ boost how much hull or armour the flagship has.
 
 **BACK**.
 
-![Back module section](/img/modules/module-section-back.png)
+![Back module section](../../img/modules/module-section-back.png)

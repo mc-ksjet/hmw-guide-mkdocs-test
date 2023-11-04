@@ -21,4 +21,4 @@ your engines, such as speed and acceleration.
 
 **BACK**.
 
-![Back module section](/img/modules/module-section-back.png)
+![Back module section](../../img/modules/module-section-back.png)

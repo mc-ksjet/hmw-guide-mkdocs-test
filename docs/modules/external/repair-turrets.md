@@ -1,6 +1,6 @@
 # Repair Turrets
 
-![Repair turret icon - a spanner holder a nut](/img/modules/repair-turret-icon.png)
+![Repair turret icon - a spanner holder a nut](../../img/modules/repair-turret-icon.png)
 
 Repair turrets are ***armour*** 'healing' turrets that go *brrrt hummmm*. They
 will repair units in ***your*** fleet within range if they have damaged armour

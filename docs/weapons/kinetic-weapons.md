@@ -1,6 +1,6 @@
 # Kinetic / Capital Mass Driver Weapons
 
-![Kinetic weapon icon - six small dots arranged in a hexagon](/img/modules/kinetic-weapon-icon.png)
+![Kinetic weapon icon - six small dots arranged in a hexagon](../img/modules/kinetic-weapon-icon.png)
 
 Kinetic or CMD weapons are ballistic weapons that go *bang bang*. With decent hull and armour damage, they are a jack-of-all-trades of the various weapon types. They have two active abilities called Kinetic Burst and EMP Round (from Operator officers).
 

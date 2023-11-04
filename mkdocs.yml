@@ -51,6 +51,7 @@ theme:
     - search.highlight
     - search.share
     - search.suggest
+    - toc.follow
     - toc.integrate
 
 # Any extra CSS
@@ -109,8 +110,10 @@ plugins:
       pipeline:
         - trimmer
   #- tags:
-      #tags_compare: !!python/name:material.plugins.tags.casefold
-      #tags_file: index/tags.md
+  #    tags_compare: !!python/name:material.plugins.tags.casefold
+  #    tags_file: index/tags.md
+  #- typeset:
+  #    enabled: true
 
 # Page tree
 nav:
@@ -175,7 +178,10 @@ nav:
           - officers/perks/pilot-perks.md
           - officers/perks/quartermaster-perks.md
           - officers/perks/scientist-perks.md
-      - officers/officer-list.md
+      - Officer List:
+          - officers/list/index.md
+          - officers/list/named-event-officers.md
+          - officers/list/named-market-officers.md
   - About:
       - contributors.md
       - links.md

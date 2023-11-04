@@ -1,6 +1,6 @@
 # Energy Weapons
 
-![Energy weapons use the energy weapon icon - a four pointed star](/img/modules/energy-weapon-icon.png)
+![Energy weapons use the energy weapon icon - a four pointed star](../img/modules/energy-weapon-icon.png)
 
 There are currently no flagship mountable energy weapons, but these appear on plasma bombers, Amassari command ships, Amassari siege frigates, and Amassari assault corvettes
 

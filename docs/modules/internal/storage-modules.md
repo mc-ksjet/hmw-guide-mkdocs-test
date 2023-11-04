@@ -22,6 +22,6 @@ flagship. They increase the amount of storage space in your flagship's cargo by
 
 **ANY**.
 
-![Front module section](/img/modules/module-section-front.png)
-![Middle module section](/img/modules/module-section-middle.png)
-![Back module section](/img/modules/module-section-back.png)
+![Front module section](../../img/modules/module-section-front.png)
+![Middle module section](../../img/modules/module-section-middle.png)
+![Back module section](../../img/modules/module-section-back.png)

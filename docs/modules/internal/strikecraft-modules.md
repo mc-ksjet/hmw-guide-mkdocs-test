@@ -29,4 +29,4 @@ Modules that affect strikecraft (interceptors, bombers, corvettes) go in the
 
 **MIDDLE**.
 
-![Middle module section](/img/modules/module-section-middle.png)
+![Middle module section](../../img/modules/module-section-middle.png)

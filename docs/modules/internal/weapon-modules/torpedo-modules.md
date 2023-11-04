@@ -1,7 +1,7 @@
 # Torpedo Weapon modules
 
 These modules affect all flagship
-[Torpedo Weapons](../../weapons/torpedo-weapons.md). The different module types
+[Torpedo Weapons](../../../weapons/torpedo-weapons.md). The different module types
 can be categorised as follows:
 
 * **Anti-armour**: Increases the armour damage of a weapon type.
@@ -27,4 +27,4 @@ can be categorised as follows:
 
 **BACK**.
 
-![Back module section](/img/modules/module-section-back.png)
+![Back module section](../../../img/modules/module-section-back.png)

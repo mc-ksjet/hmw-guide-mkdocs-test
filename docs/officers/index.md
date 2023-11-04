@@ -2,14 +2,14 @@
 
 Officers in Homeworld Mobile give various buffs depending on the location they
 are placed in, what [stats](officer-stats.md) they have and if they have
-passive [perks](officer-perks.md) or [active abilities](active-abilities.md).
+passive [perks](perks/index.md) or [active abilities](active-abilities.md).
 
 The abilities of officers are split into three categoties:
 
 * [Stats](officer-stats.md)
 * [Active abilities](active-abilities.md) - combat abilities that need to be
   manually activated
-* [Perks](officer-perks.md) - passive abilities that are always active if the
+* [Perks](perks/index.md) - passive abilities that are always active if the
   officer is stationed in the right place.
 
 ## Officer types
@@ -27,15 +27,15 @@ pool of perks:
 * [Pilots](perks/pilot-perks.md)
 * [Quartermasters](perks/quartermaster-perks.md)
 * [Scientists](perks/scientist-perks.md)
-* [Named legendary officers](officer-list.md) available from the market.
+* [Named officers](list/index.md) available from the market.
 
 ## Leveling Up
 
 Every time you upgrade an officer, their [stats](officer-stats.md) increase.
-Every 10th upgrade, increases their [perk](officer-perks.md), decreases the
+Every 10th upgrade, increases their [perk](perks/index.md), decreases the
 cooldown on their [active ability](active-abilities.md), or has the possibility
 of adding an additional perk, referred to as a
-[split perks](officer-perks.md#split-perks).
+[split perk](perks/index.md#split-perks).
 
 Down below is the insignia and credit costs of leveling your officers based on
 their rarity for each level (split based on insignia tier usage).

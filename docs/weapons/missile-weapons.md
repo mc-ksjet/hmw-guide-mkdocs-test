@@ -1,6 +1,6 @@
 # Missile Weapons
 
-![Missiles use the explosive weapon icon - an eight pointed star](/img/modules/explosive-weapon-icon.png)
+![Missiles use the explosive weapon icon - an eight pointed star](../img/modules/explosive-weapon-icon.png)
 
 Missiles (not to be confused with torpedoes) are explosive weapons that go *fwoosh boom*. With mostly hull damage and very little armour damage, they will shred any unarmoured targets but struggle with armoured enemies. They have two active abilities called Missile Barrage and Fusion Missile (from Operator officers).
 

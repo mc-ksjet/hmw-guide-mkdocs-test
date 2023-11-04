@@ -2,7 +2,7 @@
 
 ## Agnes Manaan
 
-![Agnes Manaan](/img/officers/agnes-manaan.png)
+![Agnes Manaan](../../img/officers/agnes-manaan.png)
 
 > Heiress to a Manaani fortune. A formidable woman with a commanding presence.
 
@@ -15,7 +15,7 @@ Rarity: **Legendary**
 
 ## Amaala Magann
 
-![Amaala Magaan](/img/officers/amaala-magann.png)
+![Amaala Magaan](../../img/officers/amaala-magann.png)
 
 > A capable strike officer and leader. Veteran of several conflicts, banished to
   Nimbus to draw her sister Esentra into exile.
@@ -31,7 +31,7 @@ Sister of [Esentra Magaan](#esentra-magaan).
 
 ## Esentra Magaan
 
-![Esentra Magann](/img/officers/esentra-magann.png)
+![Esentra Magann](../../img/officers/esentra-magann.png)
 
 > A formidable commander and a significant figure in Kiith politics. Searches
   Nimbus for her sister, Amaala.
@@ -47,7 +47,7 @@ Sister of [Amaala Magaan](#amaala-magann).
 
 ## Jassiah Soban
 
-![Jassiah Soban](/img/officers/jassiah-soban.png)
+![Jassiah Soban](../../img/officers/jassiah-soban.png)
 
 > Between the two Shades, she is the more administrative and diplomatic. She
   finds the targets and is a relentless tracker.
@@ -63,7 +63,7 @@ Sister of [Thaed Soban](#thaed-soban).
 
 ## Makhaab Somtaaw
 
-![Makhaab Somtaaw](/img/officers/makhaab-somtaaw.png)
+![Makhaab Somtaaw](../../img/officers/makhaab-somtaaw.png)
 
 > An expert on captured Vaygr technology. Makhaab's improvisation skills are a
   thing of legend. His biggest boast is claiming to send interstallar signals
@@ -78,7 +78,7 @@ Rarity: **Legendary**
 
 ## Mehemit Matarra
 
-![Mehemit Matarra](/img/officers/mehemit-matara.png)
+![Mehemit Matarra](../../img/officers/mehemit-matara.png)
 
 > Stately authoritarian commander with little patience for fools. Low opinion of
   other Kiithid.
@@ -94,7 +94,7 @@ Brother of [Pagraan Matara](#pagraan-matara).
 
 ## Pagraan Matara
 
-![Pagraan Matara](/img/officers/pagraan-matara.png)
+![Pagraan Matara](../../img/officers/pagraan-matara.png)
 
 > Brave and headstrong hero of the front lines. Noted contempt for aloof flag
   officers.
@@ -113,7 +113,7 @@ Brother of [Mehemit Matara](#mehemit-matarra).
 
 ## Thaed Soban
 
-![Thaed Soban](/img/officers/thaed-soban.png)
+![Thaed Soban](../../img/officers/thaed-soban.png)
 
 > Between the Shades, Thaed has no sense of mercy. He will allow his target to
   run his mouth but never changes his judgement - death.

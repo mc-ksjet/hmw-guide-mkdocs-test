@@ -1,8 +1,8 @@
 # Kinetic Weapon modules
 
 These modules affect all flagship
-[Kinetic / Capital Mass Driver Weapons](../../weapons/kinetic-weapons.md). The
-different module types can be categorised as follows:
+[Kinetic / Capital Mass Driver Weapons](../../../weapons/kinetic-weapons.md).
+The different module types can be categorised as follows:
 
 * **Anti-armour**: Increases the armour damage of a weapon type.
 * **Anti-hull**: Increases the hull damage of a weapon type.
@@ -35,4 +35,4 @@ different module types can be categorised as follows:
 
 **BACK**.
 
-![Back module section](/img/modules/module-section-back.png)
+![Back module section](../../../img/modules/module-section-back.png)

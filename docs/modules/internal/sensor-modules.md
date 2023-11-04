@@ -29,4 +29,4 @@ Sensor modules come in two different types:
 
 **FRONT**.
 
-![Front module section](/img/modules/module-section-front.png)
+![Front module section](../../img/modules/module-section-front.png)

@@ -10,7 +10,7 @@ activate. Active abilities do not stack.
 
 ## EMP Round
 
-![EMP Round](/img/officers/emp-round.png)
+![EMP Round](../img/officers/emp-round.png)
 
 Fires an EMP capsule, disabling the target ship or squad.
 
@@ -29,7 +29,7 @@ Ability cooldown progression: -0.26s (2%) every tenth level, as follows:
 
 ## Fusion Missile
 
-![Fusion Missile](/img/officers/fusion-missile.png)
+![Fusion Missile](../img/officers/fusion-missile.png)
 
 Launches a single missile with a heavier than normal payload. Effective agains
 capital ships. Requires at lease one missile turret.
@@ -49,7 +49,7 @@ Ability cooldown progression: -0.38s (2%) seconds every tenth level, as follows:
 
 ## Heavy Torpedo
 
-![Heavy Torpedo](/img/officers/heavy-torpedo.png)
+![Heavy Torpedo](../img/officers/heavy-torpedo.png)
 
 Fires a single torpedo with a heavier than normal payload.
 
@@ -68,7 +68,7 @@ Ability cooldown progression: -0.4s (2%) seconds every tenth level, as follows:
 
 ## Ion Cannon Shot
 
-![Ion Cannon Shot](/img/officers/ion-cannon-shot.png)
+![Ion Cannon Shot](../img/officers/ion-cannon-shot.png)
 
 Triggers a focused ion cannon shot that cripples the targets weapon systems,
 slowing down rate of fire for a few seconds.
@@ -88,7 +88,7 @@ Ability cooldown progression: -0.26s (2%) every tenth level, as follows:
 
 ## Kinetic Burst
 
-![Kinetic Burst](/img/officers/pulsat-burst.png)
+![Kinetic Burst](../img/officers/pulsat-burst.png)
 
 Overclocks the ship's kinetic turrets, increasing firerate. Requires at least
 one equipped kinetic / mass driver turret.
@@ -110,7 +110,7 @@ Ability cooldown progression: -0.2s (2%) every tenth level, as follows:
 
 ## Missile Barrage
 
-![Missile Barrage](/img/officers/missile-barrage.png)
+![Missile Barrage](../img/officers/missile-barrage.png)
 
 Fires a volley of missiles at one target, dealing massive damage.
 
@@ -129,7 +129,7 @@ Ability cooldown progression: -0.26s (2%) every tenth level, as follows:
 
 ## Pulsar Burst
 
-![Pulsar Burst](/img/officers/pulsat-burst.png)
+![Pulsar Burst](../img/officers/pulsat-burst.png)
 
 Overclocks the ship's pulsar turrets, increasing firerate. Requires at least one
 equipped pulsar turret.
@@ -151,7 +151,7 @@ Ability cooldown progression: -0.2s (2%) every tenth level, as follows:
 
 ## Repair Burst
 
-![Repair Burst](/img/officers/repair-burst.png)
+![Repair Burst](../img/officers/repair-burst.png)
 
 Controlled overload of repair module restores armor of nearby ships.
 

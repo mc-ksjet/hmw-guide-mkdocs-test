@@ -34,7 +34,7 @@ exceptopn of Storage Modules.
 
 ### **FRONT** Section
 
-![Front module section](/img/modules/module-section-front.png)
+![Front module section](../../img/modules/module-section-front.png)
 
 The following module types fit into the **FRONT** module section:
 
@@ -44,7 +44,7 @@ The following module types fit into the **FRONT** module section:
 
 ### **MIDDLE** Section
 
-![Middle module section](/img/modules/module-section-middle.png)
+![Middle module section](../../img/modules/module-section-middle.png)
 
 The following module types fit into the **MIDDLE** module section:
 
@@ -54,7 +54,7 @@ The following module types fit into the **MIDDLE** module section:
 
 ### **BACK** Section
 
-![Back module section](/img/modules/module-section-back.png)
+![Back module section](../../img/modules/module-section-back.png)
 
 The following module types fit into the **BACK** module section:
 

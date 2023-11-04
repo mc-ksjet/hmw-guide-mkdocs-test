@@ -33,4 +33,4 @@ and cost.
 
 **MIDDLE**.
 
-![Middle module section](/img/modules/module-section-middle.png)
+![Middle module section](../../img/modules/module-section-middle.png)

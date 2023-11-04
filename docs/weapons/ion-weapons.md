@@ -1,6 +1,6 @@
 # Ion Weapons
 
-![Ions use the beam weapon icon - diagonal line going from bottom left to top right](/img/modules/beam-weapon-icon.png)
+![Ions use the beam weapon icon - diagonal line going from bottom left to top right](../img/modules/beam-weapon-icon.png)
 
 Ion weapons are beam (***not*** energy) type weapons that go *vooomm*. With the most armour damage of any weapon but less hull damage compared to the other weapon types, they are meant to counter armoured targets like capital ships and structures. They have one ability called Ion Cannon Shot (from Operator officers).
 

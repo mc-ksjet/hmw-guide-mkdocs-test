@@ -27,4 +27,4 @@ Since research was reworked, parallel processors were removed from markets and
 
 **FRONT**.
 
-![Front module section](/img/modules/module-section-front.png)
+![Front module section](../../img/modules/module-section-front.png)

@@ -1,6 +1,6 @@
 # Pulsar Weapons
 
-![Pulsars use the beam weapon icon - a diagonal line going from bottom left to top right](/img/modules/beam-weapon-icon.png)
+![Pulsars use the beam weapon icon - a diagonal line going from bottom left to top right](../img/modules/beam-weapon-icon.png)
 
 Pulsar weapons are beam (***not*** energy) type weapons that go *pew zap*. Similar to the ion weapons, they have quite a lot of armour damage and less hull damage compared to the other weapon types, but they have a faster fire rate and different officers then their beam cousins. They have one active abilities called Pulsar Burst (from Operator officers).
 

@@ -1,6 +1,6 @@
 # Torpedo Weapons
 
-![Torpedoes use the explosive weapon icon - an eight pointed star](/img/modules/explosive-weapon-icon.png)
+![Torpedoes use the explosive weapon icon - an eight pointed star](../img/modules/explosive-weapon-icon.png)
 
 Torpedoes (not to be confused with missiles) are explosive weapons that go *fwoosh BOOM*. With mixed hull damage and armour damage, they can give you a decent mix of damage against larger targets. They can be buffed by upgrading them, fitting in a high aerospace stat officer (buffs weapon range). They have one active ability called Heavy Torpedo (from Operator officers).
 
