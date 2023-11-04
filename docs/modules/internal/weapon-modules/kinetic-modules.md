@@ -1,10 +1,13 @@
 # Kinetic Weapon modules
 
-These modules affect all flagship [Kinetic / Capital Mass Driver Weapons](../../weapons/kinetic-weapons.md). The different module types can be categorised as follows:
+These modules affect all flagship
+[Kinetic / Capital Mass Driver Weapons](../../weapons/kinetic-weapons.md). The
+different module types can be categorised as follows:
 
 * **Anti-armour**: Increases the armour damage of a weapon type.
 * **Anti-hull**: Increases the hull damage of a weapon type.
-* **Heat sink**: Increases weapon turret fire rate, resulting in increases to both hull and armour damage.
+* **Heat sink**: Increases weapon turret fire rate, resulting in increases to
+  both hull and armour damage.
 
 ## Blueprints
 

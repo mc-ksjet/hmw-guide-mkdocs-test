@@ -1,9 +1,12 @@
 # Missile Weapon modules
 
-These modules affect all flagship [Missile Weapons](../../weapons/missile-weapons.md). The different module types can be categorised as follows:
+These modules affect all flagship
+[Missile Weapons](../../weapons/missile-weapons.md). The different module types
+can be categorised as follows:
 
 * **Anti-hull**: Increases the hull damage of a weapon type.
-* **Heat sink**: Increases weapon turret fire rate, resulting in increases to both hull and armour damage.
+* **Heat sink**: Increases weapon turret fire rate, resulting in increases to
+  both hull and armour damage.
 * **Signal booster**: Increases missile turret range.
 
 ## Blueprints

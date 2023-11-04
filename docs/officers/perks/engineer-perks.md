@@ -44,7 +44,8 @@ Abbreviation: **SPD**
 
 ## Fabricator: Fabrication Time (again)
 
-Decreases the amount of time required to fabricate something. Place into a refinery or onto the bridge before starting the refinery job.
+Decreases the amount of time required to fabricate something. Place into a
+refinery or onto the bridge before starting the refinery job.
 
 Abbreviation: **⊿ TME**
 

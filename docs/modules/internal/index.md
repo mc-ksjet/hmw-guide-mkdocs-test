@@ -1,6 +1,10 @@
 # Internal Modules
 
-Internal modules give various boost that can buff up your flagship, from additional fabrication or refinery slots, to weapon boosts that gives you insane total stats, internal modules are the way to go for both min-maxers as new players alike. Every flagship has a front, middle and back slots to place modules in. How much space is in various ship sections is as follows:
+Internal modules give various boost that can buff up your flagship, from
+additional fabrication or refinery slots, to weapon boosts that gives you insane
+total stats, internal modules are the way to go for both min-maxers as new
+players alike. Every flagship has a front, middle and back slots to place
+modules in. How much space is in various ship sections is as follows:
 
 |Flagship              |Front section|Middle section|Back section|
 |----------------------|:-----------:|:------------:|:----------:|
@@ -19,11 +23,14 @@ Internal modules give various boost that can buff up your flagship, from additio
 |Explorer III          |220          |220           |170         |
 |Explorer IV           |240          |220           |170         |
 
-A higher tier modules does not mean that the module itself is stronger (aside from fabricators and refineries), but the higher the tier, the lower the capacity cost (Module size) of the module.
+A higher tier modules does not mean that the module itself is stronger (aside
+from fabricators and refineries), but the higher the tier, the lower the
+capacity cost (Module size) of the module.
 
 ## Module Flagship Location
 
-Modules can only be placed in specific locations within the flagship, with the exceptopn of Storage Modules.
+Modules can only be placed in specific locations within the flagship, with the
+exceptopn of Storage Modules.
 
 ### **FRONT** Section
 

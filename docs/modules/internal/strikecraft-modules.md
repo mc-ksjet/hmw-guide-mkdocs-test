@@ -1,8 +1,10 @@
 # Strikecraft Modules
 
-Modules that affect strikecraft (interceptors, bombers, corvettes) go in the **MIDDLE** module section of your flagship and consist of the following types:
+Modules that affect strikecraft (interceptors, bombers, corvettes) go in the
+**MIDDLE** module section of your flagship and consist of the following types:
 
-* **Squadron flight coordinator**: Increases strike craft dodge chance (+2 % per level)
+* **Squadron flight coordinator**: Increases strike craft dodge chance (+2 % per
+  level)
 * **Squadron maintenance module**: Increases strike craft hull
 
 ## Blueprints

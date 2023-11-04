@@ -2,7 +2,9 @@
 
 ## Laboratory: Research Point Production
 
-Increases amount of research points that can be generated before they need to be collected. Must be placed on the Bridge or in a Laboratory before Research Points are collected.
+Increases amount of research points that can be generated before they need to be
+collected. Must be placed on the Bridge or in a Laboratory before Research
+Points are collected.
 
 Abbreviation: **PRD**
 
@@ -16,7 +18,8 @@ Abbreviation: **PRD**
 
 ## Bridge: Research Time
 
-Reduces the amount of time taken to complete research. Must be placed on the bridge prior to starting research.
+Reduces the amount of time taken to complete research. Must be placed on the
+bridge prior to starting research.
 
 Abbreviation: **TME**
 

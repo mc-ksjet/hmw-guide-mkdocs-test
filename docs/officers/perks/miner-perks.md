@@ -2,7 +2,10 @@
 
 ## Resource Controller: Remote Mining Yield
 
-Increases the amount of all ores collected by a Resource when it returns from remote mining. Priority for placement is: Flagship &gt; Collector. If on the flagship bridge, ensure officer is placed before the resource controller returns.
+Increases the amount of all ores collected by a Resource when it returns from
+remote mining. Priority for placement is: Flagship &gt; Collector. If on the
+flagship bridge, ensure officer is placed before the resource controller
+returns.
 
 Abbreviation: **RMY**
 
@@ -16,7 +19,9 @@ Abbreviation: **RMY**
 
 ## Asteroid Mining Ship: RU Type A Ore Mining Yield
 
-Increases the amount of **A** ore mined by the collector or controller this miner is commanding. Priority for placement is: Flagship &gt; Controller &gt; Collector.
+Increases the amount of **A** ore mined by the collector or controller this
+miner is commanding. Priority for placement is: Flagship &gt; Controller &gt;
+Collector.
 
 Abbreviation: **RUY(A)**
 
@@ -30,7 +35,9 @@ Abbreviation: **RUY(A)**
 
 ## Asteroid Mining Ship: RU Type B Ore Mining Yield
 
-Increases the amount of **B** ore mined by the collector or controller this miner is commanding. Priority for placement is: Flagship &gt; Controller &gt; Collector.
+Increases the amount of **B** ore mined by the collector or controller this
+miner is commanding. Priority for placement is: Flagship &gt; Controller &gt;
+Collector.
 
 Abbreviation: **RUY(B)**
 
@@ -44,7 +51,9 @@ Abbreviation: **RUY(B)**
 
 ## Asteroid Mining Ship: RU Type C Ore Mining Yield
 
-Increases the amount of **C** ore mined by the collector or controller this miner is commanding. Priority for placement is: Flagship &gt; Controller &gt; Collector.
+Increases the amount of **C** ore mined by the collector or controller this
+miner is commanding. Priority for placement is: Flagship &gt; Controller &gt;
+Collector.
 
 Abbreviation: **RUY(C)**
 
@@ -58,7 +67,9 @@ Abbreviation: **RUY(C)**
 
 ## Asteroid Mining Ship: RU Type D Ore Mining Yield
 
-Increases the amount of **D** ore mined by the collector or controller this miner is commanding. Priority for placement is: Flagship &gt; Controller &gt; Collector.
+Increases the amount of **D** ore mined by the collector or controller this
+miner is commanding. Priority for placement is: Flagship &gt; Controller &gt;
+Collector.
 
 Abbreviation: **RUY(D)**
 

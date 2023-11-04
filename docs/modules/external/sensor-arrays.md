@@ -1,8 +1,11 @@
 # Sensor Arrays
 
-Sensor array modules can be equipped to your flagship to help the player with scanning objects within a system. They do not affect targeting range or weapon range.
+Sensor array modules can be equipped to your flagship to help the player with
+scanning objects within a system. They do not affect targeting range or weapon
+range.
 
-Sensors can be buffed by upgrading them, fitting in a high aerospace stat officer (buffs scan strength) or fitting in Comms Officers (passive perks).
+Sensors can be buffed by upgrading them, fitting in a high aerospace stat
+officer (buffs scan strength) or fitting in Comms Officers (passive perks).
 
 ## Blueprints
 

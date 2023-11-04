@@ -24,7 +24,10 @@ Abbreviation: **SCD-S**
 
 ## Sensor: Crit Chance (Star System)
 
-Each time you scan, there is a chance to roll a "critical scan" which reveals the object for which the crit was rolled immediately (every object gets its own scanning role when scanning). Increasing your crit chance means there is a higher likelihood you get these crit rolls.
+Each time you scan, there is a chance to roll a "critical scan" which reveals
+the object for which the crit was rolled immediately (every object gets its own
+scanning role when scanning). Increasing your crit chance means there is a
+higher likelihood you get these crit rolls.
 
 Abbreviation: **SCS-S**
 
@@ -38,7 +41,8 @@ Abbreviation: **SCS-S**
 
 ## Sensor: Flagship Sensor Range
 
-Increases the sensor range of your flagship. This is the blue bubble on the sensor view, and not the yellow circle.
+Increases the sensor range of your flagship. This is the blue bubble on the
+sensor view, and not the yellow circle.
 
 Abbreviation: **S-RG**
 
@@ -52,7 +56,8 @@ Abbreviation: **S-RG**
 
 ## Sensor: Scan Reliability (Star System)
 
-Increases the floor strength of your scanner, increasing the chance to scan something.
+Increases the floor strength of your scanner, increasing the chance to scan
+something.
 
 Abbreviation: **SRL-S**
 
@@ -66,7 +71,8 @@ Abbreviation: **SRL-S**
 
 ## Sensor: Scan Strength (Star System)
 
-Raises the scan ceiling, allowing harder to scan items to be scanned by increasing the chance to scan something.
+Raises the scan ceiling, allowing harder to scan items to be scanned by
+increasing the chance to scan something.
 
 Abbreviation: **SST-S**
 

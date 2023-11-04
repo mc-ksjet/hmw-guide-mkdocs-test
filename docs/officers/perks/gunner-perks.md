@@ -2,7 +2,9 @@
 
 ## Capital Mass Driver: Flagship Mass Driver Damage to Armour
 
-Increases the amount of damage that kinetic turrets do to the **armour** of other ships. Place on the bridge to affect all kinetic turrets or place in a specific turret to affect just that one.
+Increases the amount of damage that kinetic turrets do to the **armour** of
+other ships. Place on the bridge to affect all kinetic turrets or place in a
+specific turret to affect just that one.
 
 Abbreviation: **DMG-A** (prefixed by the "kinetic" icon)
 
@@ -16,7 +18,9 @@ Abbreviation: **DMG-A** (prefixed by the "kinetic" icon)
 
 ## Capital Mass Driver: Flagship Mass Driver Damage to Hull
 
-Increases the amount of damage that kinetic turrets do to the **hull** of other ships. Place on the bridge to affect all kinetic turrets or place in a specific turret to affect just that one.
+Increases the amount of damage that kinetic turrets do to the **hull** of other
+ships. Place on the bridge to affect all kinetic turrets or place in a specific
+turret to affect just that one.
 
 Abbreviation: **DMG-H** (prefixed by the "kinetic" icon)
 
@@ -30,7 +34,8 @@ Abbreviation: **DMG-H** (prefixed by the "kinetic" icon)
 
 ## Capital Mass Driver: Flagship Mass Driver Weapon Range
 
-Increases the range of your kintic turrets. Place on the bridge to affect all kinetic turrets or place in a specific turret to affect just that one
+Increases the range of your kintic turrets. Place on the bridge to affect all
+kinetic turrets or place in a specific turret to affect just that one
 
 Abbreviation: **WR-G** (prefixed by the "beam" icon)
 
@@ -44,7 +49,9 @@ Abbreviation: **WR-G** (prefixed by the "beam" icon)
 
 ## Ion Cannon: Flagship Ion Cannon Damage to Armour
 
-Increases the amount of damage that ion cannons do to the **armour** of other ships. Place on the bridge to affect all ion turrets or place in a specific turret to affect just that one.
+Increases the amount of damage that ion cannons do to the **armour** of other
+ships. Place on the bridge to affect all ion turrets or place in a specific
+turret to affect just that one.
 
 Abbreviation: **DMG-A** (prefixed by the "beam" icon)
 
@@ -58,7 +65,9 @@ Abbreviation: **DMG-A** (prefixed by the "beam" icon)
 
 ## Ion Cannon: Flagship Ion Cannon Damage to Hull
 
-Increases the amount of damage that ion cannons do to the **hull** of other ships. Place on the bridge to affect all ion turrets or place in a specific turret to affect just that one.
+Increases the amount of damage that ion cannons do to the **hull** of other
+ships. Place on the bridge to affect all ion turrets or place in a specific
+turret to affect just that one.
 
 Abbreviation: **DMG-H** (prefixed by the "beam" icon)
 
@@ -72,7 +81,8 @@ Abbreviation: **DMG-H** (prefixed by the "beam" icon)
 
 ## Ion Cannon: Flagship Ion Cannon Weapon Range
 
-Increases the range of your ion cannons. Place on the bridge to affect all ion turrets or place in a specific turret to affect just that one.
+Increases the range of your ion cannons. Place on the bridge to affect all ion
+turrets or place in a specific turret to affect just that one.
 
 Abbreviation: **WR-G** (prefixed by the "beam" icon)
 
@@ -86,9 +96,12 @@ Abbreviation: **WR-G** (prefixed by the "beam" icon)
 
 ## Missile Launcher: Flagship Missile Launcher Damage to Armour
 
-Increases the damage that your missiles do to the **armour** of other vessels. Place on the bridge to affect all missile launchers or place in a specific missile launcher to affect just that one.
+Increases the damage that your missiles do to the **armour** of other vessels.
+Place on the bridge to affect all missile launchers or place in a specific
+missile launcher to affect just that one.
 
-Abbreviation: **DMG-A** (prefixed by a "missile" icon - this might change to the "explosives" icon in a future update)
+Abbreviation: **DMG-A** (prefixed by a "missile" icon - this might change to the
+"explosives" icon in a future update)
 
 | Officer Rarity by Level | 1    | 10   | 20   | 30   | 40   |
 |-------------------------|:----:|:----:|:----:|:----:|:----:|
@@ -100,9 +113,12 @@ Abbreviation: **DMG-A** (prefixed by a "missile" icon - this might change to the
 
 ## Missile Launcher: Flagship Missile Launcher Damage to Hull
 
-Increases the damage that your missiles do to the **hull** of other vessels. Place on the bridge to affect all missile launchers or place in a specific missile launcher to affect just that one.
+Increases the damage that your missiles do to the **hull** of other vessels.
+Place on the bridge to affect all missile launchers or place in a specific
+missile launcher to affect just that one.
 
-Abbreviation: **DMG-H** (prefixed by a "missile" icon - this might change to the "explosives" icon in a future update)
+Abbreviation: **DMG-H** (prefixed by a "missile" icon - this might change to the
+"explosives" icon in a future update)
 
 | Officer Rarity by Level | 1    | 10   | 20   | 30   | 40   |
 |-------------------------|:----:|:----:|:----:|:----:|:----:|
@@ -114,9 +130,12 @@ Abbreviation: **DMG-H** (prefixed by a "missile" icon - this might change to the
 
 ## Missile Launcher: Flagship Missile Launcher Weapon Range
 
-Increases the range of your missile launchers. Place on the bridge to affect all missile launchers or place in a specific missile launcher to affect just that one.
+Increases the range of your missile launchers. Place on the bridge to affect all
+missile launchers or place in a specific missile launcher to affect just that
+one.
 
-Abbreviation: **WR-G** (prefixed by a "missile" icon - this might change to the "explosives" icon in a future update)
+Abbreviation: **WR-G** (prefixed by a "missile" icon - this might change to the
+"explosives" icon in a future update)
 
 | Officer Rarity by Level | 1    | 10   | 20   | 30   | 40   |
 |-------------------------|:----:|:----:|:----:|:----:|:----:|
@@ -128,7 +147,9 @@ Abbreviation: **WR-G** (prefixed by a "missile" icon - this might change to the 
 
 ## Pulsar Beam: Flagship Pulsar Damage to Armour
 
-Increases the damage that your pulsar turrets do to the **armour** of other vessels. Place on the bridge to affect all pulsar turrets or place in a specific pulsar to affect just that one.
+Increases the damage that your pulsar turrets do to the **armour** of other
+vessels. Place on the bridge to affect all pulsar turrets or place in a specific
+pulsar to affect just that one.
 
 Abbreviation: **DMG-A** (prefixed by the "beam" icon)
 
@@ -142,7 +163,9 @@ Abbreviation: **DMG-A** (prefixed by the "beam" icon)
 
 ## Pulsar Beam: Flagship Pulsar Damage to Hull
 
-Increases the damage that your pulsar turrets do to the **hull** of other vessels. Place on the bridge to affect all pulsar turrets or place in a specific pulsar to affect just that one.
+Increases the damage that your pulsar turrets do to the **hull** of other
+vessels. Place on the bridge to affect all pulsar turrets or place in a specific
+pulsar to affect just that one.
 
 Abbreviation: **DMG-H** (prefixed by the "beam" icon)
 
@@ -156,7 +179,8 @@ Abbreviation: **DMG-H** (prefixed by the "beam" icon)
 
 ## Pulsar Beam: Flagship Pulsar Weapon Range
 
-Increases the range of your pulsar turrets. Place on the bridge to affect all pulsar turrets or place in a specific pulsar to affect just that one.
+Increases the range of your pulsar turrets. Place on the bridge to affect all
+pulsar turrets or place in a specific pulsar to affect just that one.
 
 Abbreviation: **WR-G** (prefixed by the "beam" icon)
 

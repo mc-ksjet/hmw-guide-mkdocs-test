@@ -2,13 +2,19 @@
 
 ![Repair turret icon - a spanner holder a nut](/img/modules/repair-turret-icon.png)
 
-Repair turrets are ***armour*** 'healing' turrets that go *brrrt hummmm*. They will repair units in ***your*** fleet within range if they have damaged armour and will ignore other friendlies. They have one ability called Repair Burst (from Operator officers) that will repair a chunk of your armour and also a chunk of the armour of nearby friendly units.
+Repair turrets are ***armour*** 'healing' turrets that go *brrrt hummmm*. They
+will repair units in ***your*** fleet within range if they have damaged armour
+and will ignore other friendlies. They have one ability called Repair Burst
+(from Operator officers) that will repair a chunk of your armour and also a
+chunk of the armour of nearby friendly units.
 
-They can be buffed by upgrading them, completing the relevant research, and fitting in a high aerospace stat officer (buffs the range of the module).
+They can be buffed by upgrading them, completing the relevant research, and
+fitting in a high aerospace stat officer (buffs the range of the module).
 
 !!! warning
 
-    using repair turrets will pull a lot of agro towards your flagship when they are active. Keep this in mind when doing strikes or harder content
+    using repair turrets will pull a lot of agro towards your flagship when they
+    are active. Keep this in mind when doing strikes or harder content.
 
 ## Blueprints
 

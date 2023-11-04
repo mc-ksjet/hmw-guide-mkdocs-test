@@ -2,7 +2,8 @@
 
 Research modules go in the **FRONT** module section in your flagship.
 
-Since research was reworked, parallel processors were removed from markets and *all* existing research modules now increase research point generation capacity.
+Since research was reworked, parallel processors were removed from markets and
+*all* existing research modules now increase research point generation capacity.
 
 ## Blueprints
 

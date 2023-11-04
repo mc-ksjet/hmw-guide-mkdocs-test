@@ -2,7 +2,9 @@
 
 ## Refinery: Refining Time (yes really)
 
-As with the same quarteraster perk, decreases the amount of time required to refine resources. Place into a refinery or onto the bridge before starting the refinery job.
+As with the same quarteraster perk, decreases the amount of time required to
+refine resources. Place into a refinery or onto the bridge before starting the
+refinery job.
 
 Abbreviation: **TME**
 
@@ -16,7 +18,8 @@ Abbreviation: **TME**
 
 ## Refinery: Refining Yield
 
-Increases the amount of products recieved from a refining job. Place on the bridge or in a refinery before collecting your refinery job.
+Increases the amount of products recieved from a refining job. Place on the
+bridge or in a refinery before collecting your refinery job.
 
 Abbreviation: **YLD**
 

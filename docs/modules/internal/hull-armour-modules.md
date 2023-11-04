@@ -1,6 +1,7 @@
 # Hull and Armour Modules
 
-Hull and Armour maintenance modules go in the **BACK** module section. They boost how much hull or armour the flagship has.
+Hull and Armour maintenance modules go in the **BACK** module section. They
+boost how much hull or armour the flagship has.
 
 ## Blueprints
 

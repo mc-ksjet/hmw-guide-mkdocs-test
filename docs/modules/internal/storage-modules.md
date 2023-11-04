@@ -1,6 +1,8 @@
 # Storage Modules
 
-Storage modules are unique in that can can go in **ANY** module section on your flagship. They increase the amount of storage space in your flagship's cargo by +2 at level 1 and then an extra +2 per level when upgraded.
+Storage modules are unique in that can can go in **ANY** module section on your
+flagship. They increase the amount of storage space in your flagship's cargo by
++2 at level 1 and then an extra +2 per level when upgraded.
 
 ## Blueprints
 

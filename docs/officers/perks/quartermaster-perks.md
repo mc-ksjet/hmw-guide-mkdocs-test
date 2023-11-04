@@ -2,7 +2,8 @@
 
 ## Fabricator: Fabrication Cost
 
-Decreases the amount of resources and parts required to fabricate an item. Place on the bridge or in fabricators prior to starting the fabrication job.
+Decreases the amount of resources and parts required to fabricate an item. Place
+on the bridge or in fabricators prior to starting the fabrication job.
 
 Abbreviation: **⊿ CST**
 
@@ -16,7 +17,8 @@ Abbreviation: **⊿ CST**
 
 ## Fabricator: Fabrication Time
 
-Decreases the amount of time required to fabricate something. Place into a refinery or onto the bridge before starting the refinery job.
+Decreases the amount of time required to fabricate something. Place into a
+refinery or onto the bridge before starting the refinery job.
 
 Abbreviation: **⊿ TME**
 
@@ -30,7 +32,8 @@ Abbreviation: **⊿ TME**
 
 ## Refinery: Refining Time
 
-Decreases the amount of time required to refine resources. Place into a refinery or onto the bridge before starting the refinery job.
+Decreases the amount of time required to refine resources. Place into a refinery
+or onto the bridge before starting the refinery job.
 
 Abbreviation: **TME**
 

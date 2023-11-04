@@ -160,7 +160,8 @@
 
 ### Tanoch Winter Celebration (2022)
 
-These items are unique to the "Tanoch Winter Celebration event". It is unkown IF or WHEN they will return to the market
+These items are unique to the "Tanoch Winter Celebration event". It is unkown IF
+or WHEN they will return to the market
 
 |Item                                  |Prestige amount|
 |--------------------------------------|---------------|

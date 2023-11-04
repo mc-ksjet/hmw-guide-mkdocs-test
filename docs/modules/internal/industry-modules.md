@@ -1,9 +1,11 @@
 # Industry Modules
 
-Industry related modules go in the **MIDDLE** module section of your flagship and consist of the following module types:
+Industry related modules go in the **MIDDLE** module section of your flagship
+and consist of the following module types:
 
 * **Fabricators**: Make stuff. Higher tier fabs have shorter fabrication times.
-* **Refineries**: Refine ore. Higher tier refineries give shorter refining time and cost.
+* **Refineries**: Refine ore. Higher tier refineries give shorter refining time
+and cost.
 
 ## Blueprints
 
